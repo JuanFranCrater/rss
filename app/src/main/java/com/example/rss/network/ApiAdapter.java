@@ -17,7 +17,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 public class ApiAdapter {
     private static ApiService API_SERVICE;
 
-    public static final String BASE_URL = "https://nombreAlumno.alumno.mobi/";
+    public static final String BASE_URL = "https://juanfrancisco.alumno.mobi/";
 
     public static synchronized ApiService getInstance() {
 
